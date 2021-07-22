@@ -1,0 +1,1 @@
+X=MsgBox("Your computer has virus check this link for more https://www.thisworldthesedays.com/windows-virus-support.html",0+16,"Warning!") 
